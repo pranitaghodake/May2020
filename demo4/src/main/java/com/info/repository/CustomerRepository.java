@@ -11,7 +11,10 @@ public class CustomerRepository {
 		
 	}
 	
-	
+	public String fetchCustomer(int count){
+		
+		return "No of customers are"+count;
+	}
 	
 	
 	
